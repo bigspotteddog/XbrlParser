@@ -15,4 +15,4 @@ It's available on https://xbrlframework.herokuapp.com;
 
 More details/issues are discussed on https://marcioalexandre.wordpress.com/projects/xbrl-parser/;
 
-(https://marcioalexandre.files.wordpress.com/2018/05/xbrljson-api-url.jpg)
+![](https://marcioalexandre.files.wordpress.com/2018/05/xbrljson-api-url.jpg)
