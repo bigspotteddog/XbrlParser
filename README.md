@@ -8,9 +8,9 @@ This tool converts native XBRL files from XML to JSON format based on XBRL Conso
 
 - How to use XBRL-JSON docs in MongoDB (a NoSQL database): https://youtu.be/puP_oZgJQo0
 
-To access the web app: https://xbrlframework.herokuapp.com;
+It's available on https://xbrlframework.herokuapp.com;
 
-Back-End is a Java REST API that converts XBRL-based financial documents from XML to Json format. 
-Front-End is an Angular app.
+- Back-End is a Java (8) REST API built with Spring Boot 3.9.3. 
+- Front-End has been build with Angular 1.5.
 
 More details/issues are discussed on https://marcioalexandre.wordpress.com/projects/xbrl-parser/;
