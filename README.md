@@ -14,3 +14,5 @@ It's available on https://xbrlframework.herokuapp.com;
 - Front-End has been build with Angular 1.5.
 
 More details/issues are discussed on https://marcioalexandre.wordpress.com/projects/xbrl-parser/;
+
+(https://marcioalexandre.files.wordpress.com/2018/05/xbrljson-api-url.jpg)
